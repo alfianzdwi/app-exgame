@@ -1,19 +1,22 @@
 # eXgame
 
-Aplikasi eXgame merupakan aplikasi yang bergerak pada bdang game online, khususnya pemasaran akun  game online.
+Aplikasi eXgame merupakan aplikasi yang bergerak pada bidang game online, khususnya pemasaran akun  game online.
 
 ![Screenshot aplikasi game](link_ke_screenshot_aplikasi.png)
+
 
 ## Fitur Utama
 
 - Fitur 1: Terdapat fitur untuk memasarkan akun game online dengan cara memasangkan iklan, dimana ada dua pilihan yaitu Free Ads(Gratis) dan Premium Ads(Berbayar)
 - Fitur 2: Terdapat fitur untuk melakukan pencarian akun game online dengan menggunakan fitur pemilihan berdasarkan jenis game dan juga range harga.
 
+
 ## Persyaratan Sistem
 
 - Sistem Operasi: Android
 - Spesifikasi Minimum: Android Versi 8 (Oreo)
 - Spesifikasi Direkomendasikan: Android 10 (Quince Tart) atau diatasnya.
+
 
 ## Cara Penggunaan
 
@@ -28,6 +31,7 @@ H&A Team
 Jl.Raya Bojonggede Rt.01/Rw.01 No.21,Kel.Bojonggede,Kec.Bojonggede
 Bogor, Jawa Barat 16922
 Indonesia.
+
 
 ## Kebijakan Privasi
 https://hateamprivacypolicy.blogspot.com/2023/05/privacy-policy.html
