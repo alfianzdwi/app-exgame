@@ -28,7 +28,7 @@ Adapun jika anda ingin mencari produk berupa akun game online, pada halaman home
 ## Kontak
 
 H&A Team
-Jl.Raya Bojonggede Rt.01/Rw.01 No.21,Kel.Bojonggede,Kec.Bojonggede
+Jl.Raya Bojonggede Rt.01/Rw.01, Kel.Bojonggede, Kec.Bojonggede
 Bogor, Jawa Barat 16922
 Indonesia.
 
