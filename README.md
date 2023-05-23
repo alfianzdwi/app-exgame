@@ -1,17 +1,14 @@
+
 # eXgame
 
 Aplikasi eXgame merupakan aplikasi yang bergerak pada bidang game online, khususnya pemasaran akun  game online.
 
-![Splash Screen](https://drive.google.com/uc?id=1GT9CVuas2cEZZmq2_Z-krVEt9ZYiopgw)
-![Home](https://drive.google.com/uc?id=1GT9CVuas2cEZZmq2_Z-krVEt9ZYiopgw)
-![Product](https://drive.google.com/uc?id=1GT9CVuas2cEZZmq2_Z-krVEt9ZYiopgw)
-![Add Ads](https://drive.google.com/uc?id=1GT9CVuas2cEZZmq2_Z-krVEt9ZYiopgw)
 
-<div class="image-row">
-    <img src="https://drive.google.com/uc?id=1GT9CVuas2cEZZmq2_Z-krVEt9ZYiopgw">
-    <img src="https://drive.google.com/uc?id=1GT9CVuas2cEZZmq2_Z-krVEt9ZYiopgw">
-    <img src="https://drive.google.com/uc?id=1GT9CVuas2cEZZmq2_Z-krVEt9ZYiopgw">
-    <img src="https://drive.google.com/uc?id=1GT9CVuas2cEZZmq2_Z-krVEt9ZYiopgw">
+<div style="display: flex; justify-content: center;">
+    <img src="https://drive.google.com/uc?id=1GT9CVuas2cEZZmq2_Z-krVEt9ZYiopgw" width="23%" style="padding: 5px;">
+    <img src="https://drive.google.com/uc?id=1GbgKebjDW4p2-UFWZlkRe5kapOw1EJWo" width="23%" style="padding: 5px;">
+    <img src="https://drive.google.com/uc?id=1GvOpAJkrV4FdOIlnxwvsLV8k6kfwer-C" width="23%" style="padding: 5px;">
+    <img src="https://drive.google.com/uc?id=1GdiAWXyZkBbg5hyc4kU0opRCA14iOPWu" width="23%" style="padding: 5px;">
 </div>
 
 
@@ -47,19 +44,3 @@ Indonesia.
 
 ## Kebijakan Privasi
 https://hateamprivacypolicy.blogspot.com/2023/05/privacy-policy.html
-
-
-<style>
-.image-row {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.image-row img {
-    width: 25%;
-    padding: 5px;
-}
-</style>
-
-
