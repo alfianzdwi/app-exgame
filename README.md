@@ -2,13 +2,25 @@
 
 Aplikasi eXgame merupakan aplikasi yang bergerak pada bidang game online, khususnya pemasaran akun  game online.
 
-![Screenshot aplikasi game](link_ke_screenshot_aplikasi.png)
+![Splash Screen](https://drive.google.com/uc?id=1GT9CVuas2cEZZmq2_Z-krVEt9ZYiopgw)
+![Home](https://drive.google.com/uc?id=1GT9CVuas2cEZZmq2_Z-krVEt9ZYiopgw)
+![Product](https://drive.google.com/uc?id=1GT9CVuas2cEZZmq2_Z-krVEt9ZYiopgw)
+![Add Ads](https://drive.google.com/uc?id=1GT9CVuas2cEZZmq2_Z-krVEt9ZYiopgw)
+
+<div class="image-row">
+    <img src="https://drive.google.com/uc?id=1GT9CVuas2cEZZmq2_Z-krVEt9ZYiopgw">
+    <img src="https://drive.google.com/uc?id=1GT9CVuas2cEZZmq2_Z-krVEt9ZYiopgw">
+    <img src="https://drive.google.com/uc?id=1GT9CVuas2cEZZmq2_Z-krVEt9ZYiopgw">
+    <img src="https://drive.google.com/uc?id=1GT9CVuas2cEZZmq2_Z-krVEt9ZYiopgw">
+</div>
 
 
 ## Fitur Utama
 
 - Fitur 1: Terdapat fitur untuk memasarkan akun game online dengan cara memasangkan iklan, dimana ada dua pilihan yaitu Free Ads(Gratis) dan Premium Ads(Berbayar), Keuntungan dari Premium Ads adalah produk atau iklan yang anda pasang akan dikategorikan menjadi produk rekomendasi yang mana akan tampil di beberapa halaman, hal itu akan meningkatkan eksposur untuk iklan anda.
 - Fitur 2: Terdapat fitur untuk melakukan pencarian akun game online dengan menggunakan fitur pemilihan berdasarkan jenis game dan juga range harga.
+- Fitur 3: Terdapat juga fitur untuk mengubah dan menghapus data iklan yang telah dibuat sebelumnya jika iklan yang anda pasang sudah tidak berlaku.
+- Fitur 4: Terdapat fitur untuk mengubah data akun yang anda buat sebelumnya, dimana fitur tersebut ada pada halaman My Profle.
 
 
 ## Persyaratan Sistem
@@ -37,6 +49,17 @@ Indonesia.
 https://hateamprivacypolicy.blogspot.com/2023/05/privacy-policy.html
 
 
+<style>
+.image-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
+.image-row img {
+    width: 25%;
+    padding: 5px;
+}
+</style>
 
 
