@@ -11,6 +11,9 @@ Aplikasi eXgame merupakan aplikasi yang bergerak pada bidang game online, khusus
     <img src="https://drive.google.com/uc?id=1GdiAWXyZkBbg5hyc4kU0opRCA14iOPWu" width="23%" style="padding: 5px;">
 </div>
 
+## DOWNLOAD APLIKASI VERSI TERBARU
+- [eXgame APP - PROD](https://drive.google.com/uc?id=1H6VX15VUrU-VTFzW0uVks4aIDXd5Z7Wd)
+- [eXgame APP - DEV](https://drive.google.com/uc?id=1Ulf_wuG8b6XM4gWm9O08E70BSgC-J3P2)
 
 ## Fitur Utama
 
