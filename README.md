@@ -3,12 +3,11 @@
 
 Aplikasi eXgame merupakan aplikasi yang bergerak pada bidang game online, khususnya pemasaran akun  game online.
 
-
 <div style="display: flex; justify-content: center;">
-    <img src="https://drive.google.com/uc?id=1GT9CVuas2cEZZmq2_Z-krVEt9ZYiopgw" width="23%" style="padding: 5px;">
-    <img src="https://drive.google.com/uc?id=1GbgKebjDW4p2-UFWZlkRe5kapOw1EJWo" width="23%" style="padding: 5px;">
-    <img src="https://drive.google.com/uc?id=1GvOpAJkrV4FdOIlnxwvsLV8k6kfwer-C" width="23%" style="padding: 5px;">
-    <img src="https://drive.google.com/uc?id=1GdiAWXyZkBbg5hyc4kU0opRCA14iOPWu" width="23%" style="padding: 5px;">
+    <img src="https://drive.google.com/uc?id=1L1MFFacIGySqh7s8ULy7CWtFscH-0Vdw" width="23%" style="padding: 5px;">
+    <img src="https://drive.google.com/uc?id=1KuC3sRs2K9zNZenXPd8ncmqcqrFJ9Rbb" width="23%" style="padding: 5px;">
+    <img src="https://drive.google.com/uc?id=1Ki9gZLAqJ-6PI8K6xVoj4KYOIY7Mgwsr" width="23%" style="padding: 5px;">
+    <img src="https://drive.google.com/uc?id=1Kr82IboE1nvwe9RTzCkRSejmiO7BuJMu" width="23%" style="padding: 5px;">
 </div>
 
 ## DOWNLOAD APLIKASI VERSI TERBARU
