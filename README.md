@@ -16,7 +16,7 @@ Aplikasi eXgame merupakan aplikasi yang bergerak pada bidang game online, khusus
 
 ## Fitur Utama
 
-- Fitur 1: Terdapat fitur untuk memasarkan akun game online dengan cara memasangkan iklan, dimana ada dua pilihan yaitu Free Ads(Gratis) dan **Premium Ads(Berbayar)**, Keuntungan dari Premium Ads adalah produk atau iklan yang anda pasang akan dikategorikan menjadi produk rekomendasi yang mana akan tampil di beberapa halaman, hal itu akan meningkatkan eksposur untuk iklan anda, Untuk menggunakan fitur **Premium Ads** dikenakan biaya sebesar **Rp. 10,000**.
+- Fitur 1: Terdapat fitur untuk memasarkan akun game online dengan cara memasangkan iklan, dimana ada dua pilihan yaitu Free Ads(Gratis) dan **Premium Ads(Berbayar)**, Keuntungan dari **Premium Ads** adalah produk atau iklan yang anda pasang akan dikategorikan menjadi produk rekomendasi yang mana akan tampil di beberapa halaman, hal itu akan meningkatkan eksposur untuk iklan anda, Untuk menggunakan fitur **Premium Ads** dikenakan biaya sebesar **Rp. 10,000**.
 - Fitur 2: Terdapat fitur untuk melakukan pencarian akun game online dengan menggunakan fitur pemilihan berdasarkan jenis game dan juga range harga.
 - Fitur 3: Terdapat juga fitur untuk mengubah dan menghapus data iklan yang telah dibuat sebelumnya jika iklan yang anda pasang sudah tidak berlaku.
 - Fitur 4: Terdapat fitur untuk mengubah data akun yang anda buat sebelumnya, dimana fitur tersebut ada pada halaman My Profle.
