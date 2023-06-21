@@ -1,7 +1,7 @@
 
 # eXgame
 
-Aplikasi eXgame merupakan aplikasi yang bergerak pada bidang , khususnya pemasaran produk.
+Aplikasi eXgame merupakan aplikasi yang bergerak pada bidang pemasaran produk.
 
 <div style="display: flex; justify-content: center;">
     <img src="https://drive.google.com/uc?id=1L1MFFacIGySqh7s8ULy7CWtFscH-0Vdw" width="23%" style="padding: 5px;">
