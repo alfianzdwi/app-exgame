@@ -5,9 +5,7 @@ Aplikasi eXgame merupakan aplikasi yang bergerak pada bidang pemasaran produk.
 
 <div style="display: flex; justify-content: center;">
     <img src="https://drive.google.com/uc?id=1L1MFFacIGySqh7s8ULy7CWtFscH-0Vdw" width="23%" style="padding: 5px;">
-    <img src="https://drive.google.com/uc?id=1KuC3sRs2K9zNZenXPd8ncmqcqrFJ9Rbb" width="23%" style="padding: 5px;">
     <img src="https://drive.google.com/uc?id=1Ki9gZLAqJ-6PI8K6xVoj4KYOIY7Mgwsr" width="23%" style="padding: 5px;">
-    <img src="https://drive.google.com/uc?id=1Kr82IboE1nvwe9RTzCkRSejmiO7BuJMu" width="23%" style="padding: 5px;">
 </div>
 
 ## DOWNLOAD APLIKASI VERSI TERBARU
